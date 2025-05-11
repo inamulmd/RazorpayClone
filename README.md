@@ -4,11 +4,12 @@ A responsive clone of the Razorpay landing page, built using HTML, CSS, Tailwind
 
 ## 🌐 Live Demo
 
-*Note: A live demo link is not provided in the repository. If deployed, please update this section with the URL.*
+https://cosmic-liger-73adec.netlify.app/
 
 ## 📸 Screenshots
 
-*Include screenshots or a GIF demonstrating the UI here.*
+![Screenshot 2025-05-11 180532](https://github.com/user-attachments/assets/55c8a96e-f272-49fa-801a-72f6a5a50185)
+
 
 ## 🚀 Features
 
@@ -22,7 +23,7 @@ A responsive clone of the Razorpay landing page, built using HTML, CSS, Tailwind
 - **HTML5**
 - **CSS3**
 - **Tailwind CSS**
-- **JavaScript**
+
 
 
 ## 🙋‍♂️ Acknowledgements
